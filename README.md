@@ -16,6 +16,7 @@ Nesse desafio, você irá implementar uma nova feature na FinAPI. Agora será po
 - Node
 - Jest
 
+## Instalação local
 1. Faça um clone desse projeto;
 
   ```
@@ -24,8 +25,6 @@ Nesse desafio, você irá implementar uma nova feature na FinAPI. Agora será po
 
   ``` 
  2. Acesse http://localhost:3333 para ver o resultado.
-    
- 3. Execute yarn test para verificar os testes
   
   
 Criado por:- [Camila Sbrussi](https://github.com/camisbrussi/) com assistência da Rocketseat!
